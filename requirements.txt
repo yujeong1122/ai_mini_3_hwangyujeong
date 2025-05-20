@@ -1,0 +1,13 @@
+openai
+tavily
+python-dotenv
+reportlab
+pillow
+matplotlib
+yfinance
+pydantic
+beautifulsoup4
+requests
+pandas
+langgraph
+langchain-core
